@@ -1,0 +1,9 @@
+# Auto Configuration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.springframework.cloud.consul.cluster.CustomConsulDiscoveryClientConfiguration
+
+
+# Bootstrap Configuration
+org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+org.springframework.cloud.consul.cluster.ClusterConsulBootstrapConfiguration,\
+org.springframework.cloud.consul.cluster.CustomConsulDiscoveryClientBootstrapConfiguration
