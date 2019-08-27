@@ -58,7 +58,7 @@
 ````xml
 
 	<dependency>
-		<groupId>org.springframework.cloud</groupId>
+		<groupId>com.github.penggle</groupId>
 		<artifactId>spring-cloud-starter-consul-cluster</artifactId>
 		<version>2.1.0.RELEASE</version>
 	</dependency>
