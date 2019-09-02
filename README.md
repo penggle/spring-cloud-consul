@@ -51,9 +51,9 @@
 
 # 使用方法
 
-1.clone代码：[spring-cloud-starter-consul-cluster](https://github.com/penggle/spring-cloud-starter-consul-cluster)和[spring-cloud-consul-cluster](https://github.com/penggle/spring-cloud-consul-cluster)到本地，然后执行maven install安装。
+1.项目中引入starter：[spring-cloud-starter-consul-cluster](https://github.com/penggle/spring-cloud-starter-consul-cluster)
 
-2.项目中引入starter：[spring-cloud-starter-consul-cluster](https://github.com/penggle/spring-cloud-starter-consul-cluster)
+**以下依赖已发布到maven中央库中了**
 
 ````xml
 
