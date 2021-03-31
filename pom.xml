@@ -49,7 +49,7 @@
 	</distributionManagement>
 
 	<properties>
-		<guava.version>28.0-jre</guava.version>
+		<guava.version>29.0-jre</guava.version>
 		<spring-cloud-consul.version>2.1.0.RELEASE</spring-cloud-consul.version>
 
 		<!-- disabled spring-javaformat code style checks -->
